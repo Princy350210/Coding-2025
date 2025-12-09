@@ -1,0 +1,15 @@
+.f{
+    background-color: rgb(195, 12, 12);
+    color: white;
+    margin-top: 20px;
+    margin-bottom:70px;
+    margin-left:22px;
+    margin-right:22px;
+    padding-top:14px;
+      padding-bottom:14px;
+        padding-left:15px;
+          padding-right:15px;
+    font-size:14px;
+    border-radius:3px;
+    border:none;
+}
